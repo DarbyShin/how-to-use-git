@@ -70,9 +70,9 @@ Paragraph
 .``` (remove dots)
 ```
 <br/><br/>
-This is [Jack¡¯s github link](https://github.com/pwcasdf) <br/>
-This is jack¡¯s github link
+This is [JackÂ¡Â¯s github link](https://github.com/pwcasdf) <br/>
+This is jackÂ¡Â¯s github link
 ```
-This is [Jack¡¯s github link](https://github.com/pwcasdf)
+This is [JackÂ¡Â¯s github link](https://github.com/pwcasdf)
 ```
 <br/><br/>
