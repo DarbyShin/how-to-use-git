@@ -1,4 +1,5 @@
 This document is to test the format of text in github.  
+
 Line 1: format applied  
 Line 2: plane text  
 Line 3: how to apply  
@@ -8,7 +9,7 @@ The largest heading
 ```
 #The largest heading
 ```  
-##The second largest heading<br/>
+##The second largest heading  
 The second largest heading
 ```
 ##The second largest heading
