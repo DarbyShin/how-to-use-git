@@ -46,7 +46,8 @@ Bold with Italic text format
 **Bold with _Italic text_ format**
 ```
 <br/><br/>
->Quoting line><br/>
+>Quoting line<br/>
+
 Quoting line
 ```
 >Quoting line
@@ -62,7 +63,8 @@ Quoting word
 Quoting
 paragraph
 ```
-Quoting paragraph
+Quoting
+paragraph
 ```
 .```
 Quoting
@@ -70,9 +72,29 @@ Paragraph
 .``` (remove dots)
 ```
 <br/><br/>
-This is [Jack¡¯s github link](https://github.com/pwcasdf) <br/>
-This is jack¡¯s github link
+This is [Jack's github link](https://github.com/pwcasdf) <br/>
+This is Jack's github link
 ```
-This is [Jack¡¯s github link](https://github.com/pwcasdf)
+This is [Jack's github link](https://github.com/pwcasdf)
 ```
 <br/><br/>
+- List 1
+- List 2
+- List 3
+```
+- List 1
+- List 2
+- List 3
+```
+<br/><br/>
+1. List 1
+2. List 2
+3. List 3
+```
+1. List 1
+2. List 2
+3. List 3
+```
+<br/><br/>
+1. List
+  1. List1
