@@ -49,8 +49,7 @@ Quoting line
 Quoting word
 ```
 `Quoting` word
-```
-<br/><br/>
+```  
 ```
 Quoting
 paragraph
@@ -62,14 +61,12 @@ paragraph
 Quoting
 Paragraph
 .``` (remove dots)
-```
-<br/><br/>
-This is [Jack's github link](https://github.com/pwcasdf) <br/>
+```  
+This is [Jack's github link](https://github.com/pwcasdf)  
 This is Jack's github link
 ```
 This is [Jack's github link](https://github.com/pwcasdf)
-```
-<br/><br/>
+```  
 - List 1
 - List 2
 - List 3
@@ -77,22 +74,18 @@ This is [Jack's github link](https://github.com/pwcasdf)
 - List 1
 - List 2
 - List 3
-```
-<br/><br/>
-1. List 1<br/>
-2. List 2<br/>
-3. List 3<br/>
+```  
+1. List 1  
+2. List 2  
+3. List 3  
 ```
 1. List 1
 2. List 2
 3. List 3
-```
-<br/><br/>
+```  
 - [x] check box1
 - [ ] check box2
 ```
 - [x] check box1
 - [ ] check box2
-```
-<br/><br/>
-aaa
+```  
