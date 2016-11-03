@@ -8,4 +8,4 @@
 
 [Table and Coding block](https://github.com/pwcasdf/how-to-use-git/blob/master/documents/table_coding.md)
 
-[Embedding Picture](https://raw.githubusercontent.com/pwcasdf/how-to-use-git/master/documents/embedding_picture.md)
+[Embedding Picture](https://github.com/pwcasdf/how-to-use-git/blob/master/documents/embedding_picture.md)
