@@ -6,6 +6,7 @@
 - List 2
 - List 3
 ```  
+<br/>
 1. List 1  
 2. List 2  
 3. List 3  
@@ -33,6 +34,7 @@
         * List 2-3  
 (4 spaces)
 ```  
+<br/>
 - [x] check box1
 - [ ] check box2
 ```
