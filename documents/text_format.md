@@ -46,7 +46,7 @@ Bold with Italic text format
 **Bold with _Italic text_ format**
 ```
 <br/><br/>
->Quoting line<br/>
+>Quoting line<<br/>
 Quoting line
 ```
 >Quoting line
