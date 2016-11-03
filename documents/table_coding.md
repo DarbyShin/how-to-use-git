@@ -18,6 +18,7 @@
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff \|   |
 ```  
+<br/>
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
