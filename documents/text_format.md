@@ -46,3 +46,33 @@ Bold with Italic text format
 **Bold with _Italic text_ format**
 ```
 <br/><br/>
+>Quoting line<br/>
+Quoting line
+```
+>Quoting line
+```
+<br/><br/>
+`Quoting` word<br/>
+Quoting word
+```
+`Quoting` word
+```
+<br/><br/>
+```
+Quoting
+paragraph
+```
+Quoting paragraph
+```
+.```
+Quoting
+Paragraph
+.``` (remove dots)
+```
+<br/><br/>
+This is [Jack¡¯s github link](https://github.com/pwcasdf) <br/>
+This is jack¡¯s github link
+```
+This is [Jack¡¯s github link](https://github.com/pwcasdf)
+```
+<br/><br/>
